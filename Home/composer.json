@@ -1,0 +1,11 @@
+{
+    "name": "bssb/home",
+    "autoload": {
+        "psr-4": {
+            "Bssb\\Home\\": "src/"
+        }
+    },
+    "require": {
+        "mongodb/mongodb": "^1.20"
+    }
+}
